@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "spirit": "../../components/spirit/spirit"
+  }
+}

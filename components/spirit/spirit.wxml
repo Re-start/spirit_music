@@ -1,0 +1,9 @@
+<view class='spirit-container'>
+  <view class='title'>Spirit播放器</view>
+  <view class='tools'>
+    <button catchtap='onPlay'>播放</button>
+    <button catchtap='onPause'>暂停</button>
+    <button style='background-color:{{loopColor}}' catchtap='onLoop'>循环播放</button>
+  </view>
+  <progress class="process" percent="{{percent}}" activeColor />
+</view>
