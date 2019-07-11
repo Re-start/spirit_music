@@ -12,7 +12,7 @@
 - demo 预览
 
 
-- ![输入图片说明](https://images.gitee.com/uploads/images/2019/0711/195734_c99aa866_1538208.png "精灵播放器.PNG")
+ ![输入图片说明](https://images.gitee.com/uploads/images/2019/0711/195734_c99aa866_1538208.png "精灵播放器.PNG")
 
 
 #### 使用说明
